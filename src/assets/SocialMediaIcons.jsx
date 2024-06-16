@@ -1,7 +1,6 @@
 // src/components/SocialMediaIcons.js
 import React from "react";
 import App from "../App";
-
 const socialMediaLinks = [
   {
     href: "#",
@@ -29,7 +28,6 @@ const socialMediaLinks = [
     alt: "YouTube",
   },
 ];
-
 const SocialMediaIcons = () => {
   return (
     <div className="fixed top-1/2 left-0 transform -translate-y-1/2 flex flex-col items-center">
