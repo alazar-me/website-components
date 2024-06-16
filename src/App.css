@@ -1,1 +1,4 @@
 /* src/components/SocialMediaIcons.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
